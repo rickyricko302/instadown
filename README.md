@@ -1,4 +1,3 @@
-Sedang dalam perbaikan, tidak bisa digunakan sementara!
 
 # instadown
 package : com.instadown.hikki
