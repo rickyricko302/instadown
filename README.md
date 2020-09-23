@@ -1,4 +1,3 @@
-!!! SORRY THIS APLIKASI NOT WORK AGAIN, WAIT TO DEVELOPER UPDATE !!!
 # instadown
 package : com.instadown.hikki
 
